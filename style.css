@@ -98,4 +98,12 @@
     .icon{
         display: none;
     }
+    .container{
+        margin: 0px;
+        margin-left: -1.7rem;
+    }
+    .Calculator h1{
+        font-size: 50px;
+        color: darkcyan;
+    }
 }
