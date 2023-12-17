@@ -91,13 +91,13 @@
   height: 30vh;
   object-fit: cover;
 }
-@media screen and (max-width: 767px) {
+@media screen and (min-width: 767px) {
   .icon {
     display: none;
   }
   .container {
     margin: 0px;
-    margin-left: -1.7rem;
+    margin-left: 5rem;
   }
   .Calculator h1 {
     font-size: 50px;
